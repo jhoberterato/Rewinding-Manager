@@ -1,0 +1,17 @@
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\bin\Debug\RewindingManager.exe.config
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\bin\Debug\RewindingManager.exe
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\bin\Debug\RewindingManager.pdb
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.csproj.AssemblyReference.cache
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.Properties.Resources.resources
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.csproj.GenerateResource.cache
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.csproj.CoreCompileInputs.cache
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.exe
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.pdb
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.Form1.resources
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\bin\Debug\Guna.UI2.dll
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.csproj.CopyComplete
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.Components.UserControl1.resources
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.Forms.Lines.resources
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.Components.ButtonLine.resources
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.Components.MachineControl.resources
+C:\Users\jerato\source\repos\RewindingManager\RewindingManager\obj\Debug\RewindingManager.Components.MachineStatusControl.resources
